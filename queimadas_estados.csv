@@ -1,0 +1,622 @@
+ano,estado,total_focos
+1998,Acre,732
+1998,Alagoas,86
+1998,Amapá,277
+1998,Amazonas,941
+1998,Bahia,5907
+1998,Ceará,2644
+1998,Distrito Federal,101
+1998,Espírito Santo,220
+1998,Goiás,6867
+1998,Maranhão,14235
+1998,Mato Grosso,34638
+1998,Mato Grosso do Sul,2111
+1998,Minas Gerais,4299
+1998,Pará,20287
+1998,Paraíba,334
+1998,Paraná,484
+1998,Pernambuco,765
+1998,Piauí,6064
+1998,Rio de Janeiro,102
+1998,Rio Grande do Norte,172
+1998,Rio Grande do Sul,871
+1998,Rondônia,6925
+1998,Roraima,21
+1998,Santa Catarina,59
+1998,São Paulo,3194
+1998,Sergipe,20
+1998,Tocantins,11540
+1999,Acre,347
+1999,Alagoas,171
+1999,Amapá,101
+1999,Amazonas,1048
+1999,Bahia,3774
+1999,Ceará,1708
+1999,Distrito Federal,45
+1999,Espírito Santo,240
+1999,Goiás,5005
+1999,Maranhão,8712
+1999,Mato Grosso,44307
+1999,Mato Grosso do Sul,13017
+1999,Minas Gerais,6235
+1999,Pará,20478
+1999,Paraíba,179
+1999,Paraná,3257
+1999,Pernambuco,449
+1999,Piauí,3459
+1999,Rio de Janeiro,357
+1999,Rio Grande do Norte,287
+1999,Rio Grande do Sul,1492
+1999,Rondônia,7122
+1999,Roraima,220
+1999,Santa Catarina,364
+1999,São Paulo,5458
+1999,Sergipe,93
+1999,Tocantins,6687
+2000,Acre,430
+2000,Alagoas,123
+2000,Amapá,253
+2000,Amazonas,857
+2000,Bahia,6998
+2000,Ceará,2224
+2000,Distrito Federal,47
+2000,Espírito Santo,175
+2000,Goiás,3810
+2000,Maranhão,8983
+2000,Mato Grosso,26056
+2000,Mato Grosso do Sul,3073
+2000,Minas Gerais,4525
+2000,Pará,18201
+2000,Paraíba,260
+2000,Paraná,2543
+2000,Pernambuco,692
+2000,Piauí,4760
+2000,Rio de Janeiro,121
+2000,Rio Grande do Norte,145
+2000,Rio Grande do Sul,384
+2000,Rondônia,5505
+2000,Roraima,362
+2000,Santa Catarina,305
+2000,São Paulo,4127
+2000,Sergipe,17
+2000,Tocantins,6554
+2001,Acre,829
+2001,Alagoas,86
+2001,Amapá,1300
+2001,Amazonas,1297
+2001,Bahia,8062
+2001,Ceará,6368
+2001,Distrito Federal,65
+2001,Espírito Santo,131
+2001,Goiás,3919
+2001,Maranhão,18696
+2001,Mato Grosso,33013
+2001,Mato Grosso do Sul,6046
+2001,Minas Gerais,3733
+2001,Pará,28590
+2001,Paraíba,806
+2001,Paraná,1270
+2001,Pernambuco,1067
+2001,Piauí,9620
+2001,Rio de Janeiro,305
+2001,Rio Grande do Norte,296
+2001,Rio Grande do Sul,249
+2001,Rondônia,5066
+2001,Roraima,2415
+2001,Santa Catarina,201
+2001,São Paulo,2913
+2001,Sergipe,24
+2001,Tocantins,9117
+2002,Acre,6739
+2002,Alagoas,291
+2002,Amapá,2664
+2002,Amazonas,8395
+2002,Bahia,18048
+2002,Ceará,8177
+2002,Distrito Federal,161
+2002,Espírito Santo,402
+2002,Goiás,9379
+2002,Maranhão,30464
+2002,Mato Grosso,69126
+2002,Mato Grosso do Sul,14543
+2002,Minas Gerais,12831
+2002,Pará,60238
+2002,Paraíba,818
+2002,Paraná,7350
+2002,Pernambuco,1985
+2002,Piauí,11143
+2002,Rio de Janeiro,774
+2002,Rio Grande do Norte,831
+2002,Rio Grande do Sul,3361
+2002,Rondônia,28691
+2002,Roraima,2466
+2002,Santa Catarina,3595
+2002,São Paulo,4152
+2002,Sergipe,245
+2002,Tocantins,14547
+2003,Acre,10523
+2003,Alagoas,373
+2003,Amapá,2516
+2003,Amazonas,10191
+2003,Bahia,19584
+2003,Ceará,11626
+2003,Distrito Federal,161
+2003,Espírito Santo,976
+2003,Goiás,6874
+2003,Maranhão,34548
+2003,Mato Grosso,70560
+2003,Mato Grosso do Sul,5612
+2003,Minas Gerais,19426
+2003,Pará,53040
+2003,Paraíba,1562
+2003,Paraná,10866
+2003,Pernambuco,2770
+2003,Piauí,10858
+2003,Rio de Janeiro,1111
+2003,Rio Grande do Norte,1547
+2003,Rio Grande do Sul,6132
+2003,Rondônia,30557
+2003,Roraima,3987
+2003,Santa Catarina,7648
+2003,São Paulo,5599
+2003,Sergipe,468
+2003,Tocantins,12124
+2004,Acre,7271
+2004,Alagoas,233
+2004,Amapá,3413
+2004,Amazonas,8083
+2004,Bahia,18983
+2004,Ceará,10582
+2004,Distrito Federal,312
+2004,Espírito Santo,267
+2004,Goiás,9012
+2004,Maranhão,33585
+2004,Mato Grosso,97012
+2004,Mato Grosso do Sul,8616
+2004,Minas Gerais,13229
+2004,Pará,74214
+2004,Paraíba,1108
+2004,Paraná,7132
+2004,Pernambuco,2003
+2004,Piauí,11186
+2004,Rio de Janeiro,750
+2004,Rio Grande do Norte,825
+2004,Rio Grande do Sul,4729
+2004,Rondônia,40881
+2004,Roraima,2221
+2004,Santa Catarina,5030
+2004,São Paulo,4334
+2004,Sergipe,288
+2004,Tocantins,15147
+2005,Acre,15993
+2005,Alagoas,292
+2005,Amapá,2020
+2005,Amazonas,15644
+2005,Bahia,18447
+2005,Ceará,8524
+2005,Distrito Federal,140
+2005,Espírito Santo,199
+2005,Goiás,6128
+2005,Maranhão,33691
+2005,Mato Grosso,72104
+2005,Mato Grosso do Sul,12904
+2005,Minas Gerais,13702
+2005,Pará,71477
+2005,Paraíba,1004
+2005,Paraná,5023
+2005,Pernambuco,1811
+2005,Piauí,11874
+2005,Rio de Janeiro,687
+2005,Rio Grande do Norte,1001
+2005,Rio Grande do Sul,2867
+2005,Rondônia,41649
+2005,Roraima,1461
+2005,Santa Catarina,3582
+2005,São Paulo,3835
+2005,Sergipe,293
+2005,Tocantins,16214
+2006,Acre,6198
+2006,Alagoas,268
+2006,Amapá,1665
+2006,Amazonas,11697
+2006,Bahia,10218
+2006,Ceará,6167
+2006,Distrito Federal,140
+2006,Espírito Santo,431
+2006,Goiás,4387
+2006,Maranhão,23302
+2006,Mato Grosso,43479
+2006,Mato Grosso do Sul,5244
+2006,Minas Gerais,8832
+2006,Pará,55840
+2006,Paraíba,1014
+2006,Paraná,5880
+2006,Pernambuco,1759
+2006,Piauí,7867
+2006,Rio de Janeiro,1172
+2006,Rio Grande do Norte,734
+2006,Rio Grande do Sul,4116
+2006,Rondônia,25702
+2006,Roraima,2189
+2006,Santa Catarina,4986
+2006,São Paulo,5372
+2006,Sergipe,226
+2006,Tocantins,10299
+2007,Acre,8549
+2007,Alagoas,262
+2007,Amapá,1484
+2007,Amazonas,11293
+2007,Bahia,29468
+2007,Ceará,7527
+2007,Distrito Federal,485
+2007,Espírito Santo,757
+2007,Goiás,12639
+2007,Maranhão,44765
+2007,Mato Grosso,79968
+2007,Mato Grosso do Sul,11139
+2007,Minas Gerais,22514
+2007,Pará,68491
+2007,Paraíba,987
+2007,Paraná,4998
+2007,Pernambuco,2157
+2007,Piauí,17978
+2007,Rio de Janeiro,1369
+2007,Rio Grande do Norte,774
+2007,Rio Grande do Sul,2822
+2007,Rondônia,27500
+2007,Roraima,3244
+2007,Santa Catarina,2689
+2007,São Paulo,4476
+2007,Sergipe,191
+2007,Tocantins,25389
+2008,Acre,5699
+2008,Alagoas,409
+2008,Amapá,2153
+2008,Amazonas,6701
+2008,Bahia,20781
+2008,Ceará,7631
+2008,Distrito Federal,201
+2008,Espírito Santo,412
+2008,Goiás,5240
+2008,Maranhão,22122
+2008,Mato Grosso,29448
+2008,Mato Grosso do Sul,4830
+2008,Minas Gerais,11888
+2008,Pará,48449
+2008,Paraíba,867
+2008,Paraná,3662
+2008,Pernambuco,1620
+2008,Piauí,6656
+2008,Rio de Janeiro,590
+2008,Rio Grande do Norte,597
+2008,Rio Grande do Sul,2360
+2008,Rondônia,11560
+2008,Roraima,1950
+2008,Santa Catarina,2245
+2008,São Paulo,2796
+2008,Sergipe,313
+2008,Tocantins,10753
+2009,Acre,3511
+2009,Alagoas,360
+2009,Amapá,2456
+2009,Amazonas,9280
+2009,Bahia,8956
+2009,Ceará,5447
+2009,Distrito Federal,99
+2009,Espírito Santo,239
+2009,Goiás,2920
+2009,Maranhão,19132
+2009,Mato Grosso,15059
+2009,Mato Grosso do Sul,6313
+2009,Minas Gerais,4936
+2009,Pará,41664
+2009,Paraíba,1056
+2009,Paraná,3025
+2009,Pernambuco,1714
+2009,Piauí,6541
+2009,Rio de Janeiro,422
+2009,Rio Grande do Norte,659
+2009,Rio Grande do Sul,2988
+2009,Rondônia,5401
+2009,Roraima,2359
+2009,Santa Catarina,2121
+2009,São Paulo,1765
+2009,Sergipe,253
+2009,Tocantins,6428
+2010,Acre,8661
+2010,Alagoas,299
+2010,Amapá,1000
+2010,Amazonas,12139
+2010,Bahia,17063
+2010,Ceará,4934
+2010,Distrito Federal,613
+2010,Espírito Santo,295
+2010,Goiás,13419
+2010,Maranhão,36277
+2010,Mato Grosso,59013
+2010,Mato Grosso do Sul,7356
+2010,Minas Gerais,13766
+2010,Pará,57196
+2010,Paraíba,956
+2010,Paraná,3398
+2010,Pernambuco,1919
+2010,Piauí,19192
+2010,Rio de Janeiro,1139
+2010,Rio Grande do Norte,628
+2010,Rio Grande do Sul,2515
+2010,Rondônia,16970
+2010,Roraima,1918
+2010,Santa Catarina,2163
+2010,São Paulo,7292
+2010,Sergipe,165
+2010,Tocantins,29100
+2011,Acre,3191
+2011,Alagoas,267
+2011,Amapá,1396
+2011,Amazonas,5028
+2011,Bahia,13136
+2011,Ceará,4798
+2011,Distrito Federal,270
+2011,Espírito Santo,364
+2011,Goiás,5766
+2011,Maranhão,19315
+2011,Mato Grosso,17371
+2011,Mato Grosso do Sul,3731
+2011,Minas Gerais,11766
+2011,Pará,26563
+2011,Paraíba,942
+2011,Paraná,3388
+2011,Pernambuco,1722
+2011,Piauí,11163
+2011,Rio de Janeiro,1101
+2011,Rio Grande do Norte,464
+2011,Rio Grande do Sul,1979
+2011,Rondônia,6080
+2011,Roraima,1475
+2011,Santa Catarina,1772
+2011,São Paulo,4186
+2011,Sergipe,231
+2011,Tocantins,10637
+2012,Acre,4720
+2012,Alagoas,377
+2012,Amapá,2518
+2012,Amazonas,9114
+2012,Bahia,16896
+2012,Ceará,4308
+2012,Distrito Federal,169
+2012,Espírito Santo,384
+2012,Goiás,6031
+2012,Maranhão,34299
+2012,Mato Grosso,27953
+2012,Mato Grosso do Sul,7428
+2012,Minas Gerais,10108
+2012,Pará,37221
+2012,Paraíba,548
+2012,Paraná,2668
+2012,Pernambuco,1185
+2012,Piauí,14537
+2012,Rio de Janeiro,551
+2012,Rio Grande do Norte,432
+2012,Rio Grande do Sul,2322
+2012,Rondônia,8312
+2012,Roraima,1376
+2012,Santa Catarina,1820
+2012,São Paulo,2666
+2012,Sergipe,251
+2012,Tocantins,19044
+2013,Acre,4980
+2013,Alagoas,201
+2013,Amapá,1529
+2013,Amazonas,6512
+2013,Bahia,7231
+2013,Ceará,2831
+2013,Distrito Federal,105
+2013,Espírito Santo,275
+2013,Goiás,3050
+2013,Maranhão,17455
+2013,Mato Grosso,18554
+2013,Mato Grosso do Sul,3615
+2013,Minas Gerais,5387
+2013,Pará,24046
+2013,Paraíba,306
+2013,Paraná,2531
+2013,Pernambuco,696
+2013,Piauí,6484
+2013,Rio de Janeiro,392
+2013,Rio Grande do Norte,250
+2013,Rio Grande do Sul,1547
+2013,Rondônia,4613
+2013,Roraima,1395
+2013,Santa Catarina,1663
+2013,São Paulo,2392
+2013,Sergipe,174
+2013,Tocantins,9935
+2014,Acre,4398
+2014,Alagoas,165
+2014,Amapá,1848
+2014,Amazonas,9008
+2014,Bahia,7190
+2014,Ceará,2327
+2014,Distrito Federal,241
+2014,Espírito Santo,296
+2014,Goiás,5897
+2014,Maranhão,24675
+2014,Mato Grosso,24955
+2014,Mato Grosso do Sul,2214
+2014,Minas Gerais,11337
+2014,Pará,35526
+2014,Paraíba,395
+2014,Paraná,2233
+2014,Pernambuco,593
+2014,Piauí,9210
+2014,Rio de Janeiro,1283
+2014,Rio Grande do Norte,317
+2014,Rio Grande do Sul,2105
+2014,Rondônia,7334
+2014,Roraima,2519
+2014,Santa Catarina,1180
+2014,São Paulo,4490
+2014,Sergipe,89
+2014,Tocantins,14075
+2015,Acre,5779
+2015,Alagoas,460
+2015,Amapá,2936
+2015,Amazonas,13419
+2015,Bahia,16513
+2015,Ceará,3158
+2015,Distrito Federal,155
+2015,Espírito Santo,940
+2015,Goiás,6107
+2015,Maranhão,28436
+2015,Mato Grosso,27741
+2015,Mato Grosso do Sul,4617
+2015,Minas Gerais,9490
+2015,Pará,43164
+2015,Paraíba,540
+2015,Paraná,2087
+2015,Pernambuco,950
+2015,Piauí,13839
+2015,Rio de Janeiro,542
+2015,Rio Grande do Norte,402
+2015,Rio Grande do Sul,1278
+2015,Rondônia,13113
+2015,Roraima,2452
+2015,Santa Catarina,906
+2015,São Paulo,1812
+2015,Sergipe,241
+2015,Tocantins,15705
+2016,Acre,7684
+2016,Alagoas,388
+2016,Amapá,2595
+2016,Amazonas,11173
+2016,Bahia,6311
+2016,Ceará,4316
+2016,Distrito Federal,229
+2016,Espírito Santo,599
+2016,Goiás,4912
+2016,Maranhão,21789
+2016,Mato Grosso,27305
+2016,Mato Grosso do Sul,6373
+2016,Minas Gerais,6482
+2016,Pará,29724
+2016,Paraíba,708
+2016,Paraná,4151
+2016,Pernambuco,874
+2016,Piauí,8303
+2016,Rio de Janeiro,677
+2016,Rio Grande do Norte,378
+2016,Rio Grande do Sul,3527
+2016,Rondônia,11474
+2016,Roraima,3870
+2016,Santa Catarina,2561
+2016,São Paulo,3187
+2016,Sergipe,134
+2016,Tocantins,14494
+2017,Acre,6295
+2017,Alagoas,129
+2017,Amapá,1946
+2017,Amazonas,11685
+2017,Bahia,6450
+2017,Ceará,3486
+2017,Distrito Federal,287
+2017,Espírito Santo,187
+2017,Goiás,6428
+2017,Maranhão,25576
+2017,Mato Grosso,30911
+2017,Mato Grosso do Sul,5737
+2017,Minas Gerais,8383
+2017,Pará,49770
+2017,Paraíba,363
+2017,Paraná,3592
+2017,Pernambuco,563
+2017,Piauí,7657
+2017,Rio de Janeiro,959
+2017,Rio Grande do Norte,351
+2017,Rio Grande do Sul,2218
+2017,Rondônia,11313
+2017,Roraima,1565
+2017,Santa Catarina,2005
+2017,São Paulo,3905
+2017,Sergipe,77
+2017,Tocantins,15673
+2018,Acre,6626
+2018,Alagoas,201
+2018,Amapá,1206
+2018,Amazonas,11446
+2018,Bahia,4956
+2018,Ceará,3034
+2018,Distrito Federal,88
+2018,Espírito Santo,205
+2018,Goiás,3110
+2018,Maranhão,13892
+2018,Mato Grosso,18032
+2018,Mato Grosso do Sul,2380
+2018,Minas Gerais,4627
+2018,Pará,22080
+2018,Paraíba,759
+2018,Paraná,2511
+2018,Pernambuco,722
+2018,Piauí,9431
+2018,Rio de Janeiro,246
+2018,Rio Grande do Norte,456
+2018,Rio Grande do Sul,1615
+2018,Rondônia,10255
+2018,Roraima,2383
+2018,Santa Catarina,1417
+2018,São Paulo,3021
+2018,Sergipe,140
+2018,Tocantins,8033
+2019,Acre,6802
+2019,Alagoas,232
+2019,Amapá,1277
+2019,Amazonas,12676
+2019,Bahia,7371
+2019,Ceará,4304
+2019,Distrito Federal,213
+2019,Espírito Santo,622
+2019,Goiás,7160
+2019,Maranhão,18521
+2019,Mato Grosso,31169
+2019,Mato Grosso do Sul,11653
+2019,Minas Gerais,9999
+2019,Pará,30165
+2019,Paraíba,1184
+2019,Paraná,3314
+2019,Pernambuco,840
+2019,Piauí,10894
+2019,Rio de Janeiro,712
+2019,Rio Grande do Norte,730
+2019,Rio Grande do Sul,3196
+2019,Rondônia,11230
+2019,Roraima,4784
+2019,Santa Catarina,1804
+2019,São Paulo,3074
+2019,Sergipe,81
+2019,Tocantins,13625
+2020,Acre,6260
+2020,Alagoas,93
+2020,Amapá,56
+2020,Amazonas,13895
+2020,Bahia,2237
+2020,Ceará,702
+2020,Distrito Federal,128
+2020,Espírito Santo,252
+2020,Goiás,3489
+2020,Maranhão,8648
+2020,Mato Grosso,36432
+2020,Mato Grosso do Sul,7870
+2020,Minas Gerais,4549
+2020,Pará,22924
+2020,Paraíba,236
+2020,Paraná,2682
+2020,Pernambuco,259
+2020,Piauí,3397
+2020,Rio de Janeiro,581
+2020,Rio Grande do Norte,140
+2020,Rio Grande do Sul,3039
+2020,Rondônia,6965
+2020,Roraima,1698
+2020,Santa Catarina,2051
+2020,São Paulo,4428
+2020,Sergipe,55
+2020,Tocantins,8512
