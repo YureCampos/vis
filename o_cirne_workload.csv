@@ -1,4 +1,4 @@
-JobId;Nodes;NodeList;Submit time;Start time;End time;Wait time;Run time;Response time;Slowdown;Backfilled
+JobId;Nodes;NodeList;SubmitTime;StartTime;EndTime;WaitTime;RunTime;ResponseTime;Slowdown;Backfilled
 2;54;n[1-54];100;100;7923;0;7823;7823;1.000000;0
 3;8;n[55-62];192;192;193;0;1;1;1.000000;0
 4;8;n[55-62];284;284;325;0;41;41;1.000000;0
